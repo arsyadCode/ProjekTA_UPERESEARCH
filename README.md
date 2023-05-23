@@ -27,6 +27,11 @@ Perhatikan hal ini jika kamu sedang ingin mengakses GitHub:
   <li>Ulangi langkah 3-4 saat diperlukan</li>
 </ol>
 
+Tips untuk add / staging hanya folder program masing-masing anggota:
+<ol>
+  <li>lakukan git add (nama folder bagian pengerjaan kalian). ex: git add Udin</li>
+  Jika kalian menggunakan git add . maka yang dimasukkan ke staging atau yang akan di push berupa semua file termasuk file yang bukan bagian kalian. Maka, disarankan lakukan git add (nama folder). Selanjutnya, kalian bisa lakukan tahap selanjutnya seperti biasanya (dari commit hingga push)
+</ol>
 
 --- 
 
