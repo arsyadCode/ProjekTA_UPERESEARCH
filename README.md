@@ -26,3 +26,11 @@ Perhatikan hal ini jika kamu sedang ingin mengakses GitHub:
   <li>Lakukan apa yang ingin dilakukan di repository ini</li>
   <li>Ulangi langkah 3-4 saat diperlukan</li>
 </ol>
+
+
+--- 
+
+Link-link referensi ataupun cheatsheet dalam menggunakan github:
+<ul>
+  <li>https://github.com/kenmueller/gitignore</li>
+</ul>
