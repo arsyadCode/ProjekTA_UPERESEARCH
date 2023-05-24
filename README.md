@@ -6,17 +6,20 @@ PERANCANGAN GAMIFIKASI ADAPTIF TERPERSONALISASI (<i>PERSONALIZED ADAPTIVE GAMIFI
 
 ---
 
+Pembimbing Utama:
+Dr. Ariana Yunita (116015)
+
 Anggota Mahasiswa:
 
 <ul>
-  <li>Rheyhana Diva</li>
+  <li>Rheyhana Diva (105219015)</li>
   <b>Perancangan Gamifikasi Adaptif Terpersonalisasi</b>
-  <li>Akh. Faris Farhan Zaima</li>
+  <li>Akh. Faris Farhan Zaima (105219055)</li>
   <b>Pembangunan Model Pembelajaran Mesin untuk Penilaian Esai Otomatis</b>
-  <li>Muhammad Taqiyyudin Fadhlurrohman</li>
+  <li>Muhammad Taqiyyudin Fadhlurrohman (105219039)</li>
   <b>Pengelompokan Profil Pemelajar Berdasarkan Karakteristik dan Aktivitas Pembelajaran</b>
-  <li>Kiagus Muhammad Arsyad</li>
-  <b>Perancangan Dashboard Aplikasi</b>
+  <li>Kiagus Muhammad Arsyad (105219002)</li>
+  <b>Perancangan Dashboard Analisis Preskriptif Personalisasi Profil Pemelajar dengan Pembelajaran Mesin dan Visualisasi Interaktif</b>
 </ul>
 
 ---
