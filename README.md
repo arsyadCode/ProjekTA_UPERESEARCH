@@ -9,10 +9,14 @@ PERANCANGAN GAMIFIKASI ADAPTIF TERPERSONALISASI (<i>PERSONALIZED ADAPTIVE GAMIFI
 Anggota Mahasiswa:
 
 <ul>
-  <li>Akh. Faris Farhan Zaima</li>
-  <li>Muhammad Taqiyyudin Fadhlurrohman</li>
-  <li>Kiagus Muhammad Arsyad</li>
   <li>Rheyhana Diva</li>
+  <b>Perancangan Gamifikasi Adaptif Terpersonalisasi</b>
+  <li>Akh. Faris Farhan Zaima</li>
+  <b>Pembangunan Model Pembelajaran Mesin untuk Penilaian Esai Otomatis</b>
+  <li>Muhammad Taqiyyudin Fadhlurrohman</li>
+  <b>Pengelompokan Profil Pemelajar Berdasarkan Karakteristik dan Aktivitas Pembelajaran</b>
+  <li>Kiagus Muhammad Arsyad</li>
+  <b>Perancangan Dashboard Aplikasi</b>
 </ul>
 
 ---
@@ -35,5 +39,5 @@ Lakukan git add (nama folder bagian pengerjaan kalian). Ex: `git add Udin`. Kare
 
 Link-link referensi ataupun cheatsheet dalam menggunakan github:
 <ul>
-  <li>https://github.com/kenmueller/gitignore</li>
+  <li><a  href="https://github.com/kenmueller/gitignore<">Panduan Menggunakan .gitignore Untuk Pengecualian Push</a></li>
 </ul>
