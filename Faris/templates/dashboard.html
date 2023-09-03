@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <!-- Link Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Tambahkan CSS tambahan untuk desain -->
+    <style>
+        /* Gaya untuk header dasbor */
+        .dashboard-header {
+            background-color: #252B48;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        /* Gaya untuk widget */
+        .widget {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin: 20px;
+        }
+
+        /* Gaya untuk grafik */
+        .chart {
+            width: 100%;
+            height: 300px;
+            background-color: #f2f2f2;
+            margin-top: 20px;
+        }
+        .widget:hover {
+        transform: scale(1.05);
+        transition: transform 0.3s ease;
+    }
+
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <!-- Header Dasbor -->
+        <div class="dashboard-header">
+            <h1>Selamat Datang di Demo Aplikasi Data Science</h1>
+        </div>
+        
+        <!-- Widget Pertama -->
+        <div class="widget">
+            <h2>Essay Grading</h2>
+            <p>Sistem penilaian otomatis untuk soal esai untuk membantu penilaian.</p>
+            <!-- Tambahkan tautan ke rute /grading di bawah ini -->
+            <a href="/grading" class="btn btn-outline-primary">Buka Fitur</a>
+        </div>
+        
+        <!-- Widget Kedua -->
+        <div class="widget">
+            <h2>Personalisasi</h2>
+            <p>Personalisasi adalah penyesuaian pengalaman belajar berdasarkan kemampuan dan preferensi siswa.</p>
+            <a href="#" class="btn btn-outline-primary">Buka Fitur</a>
+        </div>
+        
+        <!-- Grafik
+        <div class="chart">
+            Di sini Anda dapat menambahkan elemen untuk menampilkan grafik, misalnya menggunakan library grafik seperti Chart.js
+        </div> -->
+    </div>
+    
+    <!-- Link Bootstrap JS (optional) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Tambahkan script JavaScript tambahan jika diperlukan -->
+</body>
+</html>

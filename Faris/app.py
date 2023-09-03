@@ -46,8 +46,10 @@ def grade_essay(jawaban_siswa, kunci_jawaban):
     
     return similarity_percentage
 
-# Routing untuk halaman utama
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/')
+def dashboard():
+    return render_template('dashboard.html')
+@app.route('/grading', methods=['GET', 'POST'])
 def index():
     result_data = []  # List untuk menyimpan informasi nama, kelas, dan nilai similarity
 
@@ -105,7 +107,7 @@ def index():
                     'Similarity Score': similarity_score
                 })
     
-    return render_template('index.html', result_data=result_data)
+    return render_template('grading.html', result_data=result_data)
 
 # Routing untuk mengunduh template CSV
 @app.route('/download_template', methods=['GET'])
